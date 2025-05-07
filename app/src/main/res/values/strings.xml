@@ -1,0 +1,11 @@
+
+<resources>
+    <string name="app_name">Loja de compras</string>
+    <string name="Heading">Escolha seu método de pagamento</string>
+    <string name="RadioButton1">Crédito</string>
+    <string name="radioButton2">Débito</string>
+    <string name="radioButton3">Pix</string>
+    <string name="radioButton4">Transferencia</string>
+    <string name="radioButton5">PayPal</string>
+    <string name="enviarBotao">Confirmar</string>
+</resources>
